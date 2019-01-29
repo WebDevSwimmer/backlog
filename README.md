@@ -5,7 +5,7 @@
 > no external accounts. Sleek flow.
 
 <p align="center">
-<img src="https://github.com/czytelny/backlog/raw/master/logo.png" width="100px" height="100px">
+<img src="https://github.com/voleggold/backlog/raw/master/logo.png" width="100px" height="100px">
 </p>
 
 # Official website
@@ -13,13 +13,13 @@
 
 # Download
 No installation required. Just unzip archive and run executable
-- [Windows version](https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-win32-x64.zip)
-- [MacOs version](https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-darwin-x64.zip)
-- [Linux version](https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-linux-x64.tar.gz)
+- [Windows version](https://github.com/voleggold/backlog/releases/download/v1.8.0/Backlog-win32-x64.zip)
+- [MacOs version](https://github.com/voleggold/backlog/releases/download/v1.8.0/Backlog-darwin-x64.zip)
+- [Linux version](https://github.com/voleggold/backlog/releases/download/v1.8.0/Backlog-linux-x64.tar.gz)
 
 #### 32bit versions
-- [Windows x32 version](https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-win32-ia32.zip)
-- [Linux x32 version](https://github.com/czytelny/backlog/releases/download/v1.8.0/Backlog-linux-ia32.tar.gz)
+- [Windows x32 version](https://github.com/voleggold/backlog/releases/download/v1.8.0/Backlog-win32-ia32.zip)
+- [Linux x32 version](https://github.com/voleggold/backlog/releases/download/v1.8.0/Backlog-linux-ia32.tar.gz)
 
 ## Features
 - Organize your thoughts with items & boards. Use Markdown or plaintext for adding new items
@@ -31,10 +31,10 @@ No installation required. Just unzip archive and run executable
 
 ## Screenshots
 <p align="center">
-    <img src="https://github.com/czytelny/backlog/raw/master/backlog_screenshot_1.png" width="400px">
-    <img src="https://github.com/czytelny/backlog/raw/master/backlog_screenshot_2.png" width="400px">
-    <img src="https://github.com/czytelny/backlog/raw/master/backlog_screenshot_3.png" width="400px">
-    <img src="https://github.com/czytelny/backlog/raw/master/backlog_screenshot_4.png" width="400px">
+    <img src="https://github.com/voleggold/backlog/raw/master/backlog_screenshot_1.png" width="400px">
+    <img src="https://github.com/voleggold/backlog/raw/master/backlog_screenshot_2.png" width="400px">
+    <img src="https://github.com/voleggold/backlog/raw/master/backlog_screenshot_3.png" width="400px">
+    <img src="https://github.com/voleggold/backlog/raw/master/backlog_screenshot_4.png" width="400px">
 </p>
 
 ## Update
